@@ -1,4 +1,5 @@
-![gtuicon](https://seeklogo.com/images/G/gebze-teknik-universitesi-gtu-logo-DB51C963F7-seeklogo.com.png) ## CSE-222 Overview
+![gtuicon](https://seeklogo.com/images/G/gebze-teknik-universitesi-gtu-logo-DB51C963F7-seeklogo.com.png)
+## CSE-222 Overview
 
 Assignment  | Language | Description
 ------------- | ------------- | -------------
